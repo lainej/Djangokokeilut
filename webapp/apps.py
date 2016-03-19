@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class WebappConfig(AppConfig):
-    name = 'webapp PERKELe'
+    name = 'webapp tästä poistetaan paskaa paljon, ettei tuu ongelmia!!'
